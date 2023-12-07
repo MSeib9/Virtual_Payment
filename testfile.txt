@@ -1,2 +1,3 @@
-Just adding a file!! >>
->>
+Hey how are you doing
+>>testfile.txt
+cd ..
