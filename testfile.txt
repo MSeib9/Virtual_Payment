@@ -1,2 +1,1 @@
-Hello, I am coming for the world> 
-git commit -m "Added a new sentence"
+I'm trying to learn how to make changes and then push them to repository.
