@@ -3,3 +3,9 @@
 # This is How We Do It Baby!!
 
 ## I said This is How We Do It!!
+
+**git commit -m "some comment"**
+
+*git push*
+
+
